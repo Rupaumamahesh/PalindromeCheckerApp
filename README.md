@@ -41,3 +41,9 @@
 - Removes from both ends using removeFirst() and removeLast()
 - Compares until one or zero elements remain
 - Data Structure: Singly LinkedList
+
+## Use Case 9 – Recursive Palindrome Checker
+- Uses recursion to compare characters from outer positions moving inward
+- Base condition stops recursion when start crosses end
+- If any mismatch found, returns false immediately
+- Data Structure: Call Stack
