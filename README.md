@@ -66,3 +66,9 @@
 - Strategy is injected and switched dynamically at runtime
 - Demonstrates Interface, Polymorphism and Strategy Pattern
 - Data Structure: Varies per strategy (Stack / Deque)
+
+## Use Case 13 – Performance Comparison
+- Runs 5 different palindrome algorithms on the same input
+- Measures execution time of each using System.nanoTime()
+- Algorithms compared: Character Array, Stack, Deque, LinkedList, Recursion
+- Helps identify the most efficient approach
