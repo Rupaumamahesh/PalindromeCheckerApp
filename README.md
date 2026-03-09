@@ -47,3 +47,9 @@
 - Base condition stops recursion when start crosses end
 - If any mismatch found, returns false immediately
 - Data Structure: Call Stack
+
+## Use Case 10 – Normalized Palindrome Validation
+- Removes spaces and special characters using regex
+- Converts string to lowercase
+- Compares characters from both ends
+- Data Structure: String / Array
