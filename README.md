@@ -53,3 +53,9 @@
 - Converts string to lowercase
 - Compares characters from both ends
 - Data Structure: String / Array
+
+## Use Case 11 – Object-Oriented Palindrome Service
+- Palindrome logic encapsulated in a PalindromeService class
+- Main class creates an instance and calls checkPalindrome()
+- Demonstrates Encapsulation and Single Responsibility Principle
+- Data Structure: Internal (Array)
