@@ -59,3 +59,10 @@
 - Main class creates an instance and calls checkPalindrome()
 - Demonstrates Encapsulation and Single Responsibility Principle
 - Data Structure: Internal (Array)
+
+## Use Case 12 – Strategy Pattern for Palindrome Algorithms
+- Defines a PalindromeStrategy interface
+- Implements StackStrategy and DequeStrategy classes
+- Strategy is injected and switched dynamically at runtime
+- Demonstrates Interface, Polymorphism and Strategy Pattern
+- Data Structure: Varies per strategy (Stack / Deque)
