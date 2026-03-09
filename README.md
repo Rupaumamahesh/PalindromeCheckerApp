@@ -29,3 +29,9 @@
 - Compares dequeue output with pop output
 - If all match, string is a palindrome
 - Data Structures: Queue, Stack
+
+## Use Case 7 – Deque Based Optimized Palindrome Checker
+- Inserts characters into a Deque (Double Ended Queue)
+- Removes from both front and rear using removeFirst() and removeLast()
+- Compares until deque is empty
+- Data Structure: Deque
