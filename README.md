@@ -35,3 +35,9 @@
 - Removes from both front and rear using removeFirst() and removeLast()
 - Compares until deque is empty
 - Data Structure: Deque
+
+## Use Case 8 – Linked List Based Palindrome Checker
+- Adds characters into a LinkedList
+- Removes from both ends using removeFirst() and removeLast()
+- Compares until one or zero elements remain
+- Data Structure: Singly LinkedList
